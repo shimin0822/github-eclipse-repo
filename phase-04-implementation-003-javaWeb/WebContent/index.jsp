@@ -67,7 +67,7 @@
 <!-- 	<div id="poem-txt" -->
 <!-- 		style="display: none; font-size: 18px; color: orange; position:absolute; left :10px;top:50px" > -->
 <!-- 		《诗词版"流浪地球"》<br /> <span style="font-size: 18px; color: grey"> -->
-<!-- 			-郭鹏 </span><br /> <br /> 西风吹皱东方河，万年地球白发多。 <br /> 流浪星际家何去，满船清梦出银河。 -->
+<!-- 			-郭鹏 </span><br /> <br /> 西风吹皱东方河，万年地 球白发多。 <br /> 流浪星际家何去，满船清梦出银河。 -->
 <!-- 	</div> -->
 	<img src="/static/imgs/earth.png"
 		style="position: absolute; right: 10px; bottom: 10px; width: 150px"
